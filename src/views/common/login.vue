@@ -3,8 +3,8 @@
     <div class="site-content__wrapper">
       <div class="site-content">
         <div class="brand-info">
-          <h2 class="brand-info__text">db's Blog</h2>
-          <p class="brand-info__intro">这是一个努力成长中的小小程序猿 and 要永远相信美好的事情即将发生！</p>
+          <h2 class="brand-info__text">KeepDiligent</h2>
+          <p class="brand-info__intro">每个不曾起舞的日子都是对生命的一种辜负</p>
         </div>
         <div class="login-main">
           <h3 class="login-title">管理员登录</h3>
