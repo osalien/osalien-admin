@@ -174,7 +174,6 @@ img {
     //text-transform: uppercase;
     white-space: nowrap;
     color: #fff;
-
     &-lg,
     &-mini {
       margin: 0 5px;
@@ -184,6 +183,9 @@ img {
         color: #fff;
         text-decoration: none;
       }
+    }
+    &-lg {
+      margin-right: 22px;
     }
     &-mini {
       display: none;

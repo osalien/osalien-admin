@@ -2,8 +2,8 @@
   <nav class="site-navbar" :class="'site-navbar--' + navbarLayoutType">
     <div class="site-navbar__header">
       <h1 class="site-navbar__brand" @click="$router.push({ name: 'home' })">
-        <a class="site-navbar__brand-lg" href="javascript:;">Keep Diligent</a>
-        <a class="site-navbar__brand-mini" href="javascript:;">KD</a>
+        <a class="site-navbar__brand-lg  web-font" href="javascript:;">OSALIEN</a>
+        <a class="site-navbar__brand-mini  jacob-font" href="javascript:;">Jacob</a>
       </h1>
     </div>
     <div class="site-navbar__body clearfix">
@@ -17,13 +17,13 @@
       <el-menu
         class="site-navbar__menu site-navbar__menu--right"
         mode="horizontal">
-        <!--<el-menu-item index="1" @click="$router.push({ name: 'theme' })">-->
+        <!-- <el-menu-item index="1" @click="$router.push({ name: 'theme' })">-->
           <!--<template slot="title">-->
             <!--<el-badge value="new">-->
               <!--<icon-svg name="shezhi" class="el-icon-setting"></icon-svg>-->
             <!--</el-badge>-->
           <!--</template>-->
-        <!--</el-menu-item>-->
+        <!--</el-menu-item> -->
 
         <!--<el-submenu index="3">-->
           <!--<template slot="title">实验室</template>-->

@@ -10,6 +10,7 @@ import '@/element-ui'
 import '@/icons'
 import '@/element-ui-theme'
 import '@/assets/scss/index.scss'
+import '@/common/stylus/iconfont.css'
 import httpRequest from '@/utils/httpRequest' // api: https://github.com/axios/axios
 import { isAuth } from '@/utils'
 import { getSysParam } from '@/utils'
