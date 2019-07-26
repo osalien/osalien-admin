@@ -1,4 +1,4 @@
-# dbblog-manage-frontend
+# osalien-manage-frontend
 
 > 一个前后端分离的博客系统，这是后台管理的前端页面，基于Vue
 
